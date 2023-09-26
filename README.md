@@ -1,10 +1,12 @@
 # Práctica 1 I Calculadora HTML + CSS + JavaScript 🐈
 
+### Información Básica
+
 **Nombre:** Barba Navarro Luis Rodrigo
-
 **Fecha (Creación):** 25/09/23
+**Descripción:**El repositorio almacena una calculadora web construida con tecnologías front-end como HTML, CSS y JavaScript, utilizando el framework de Bootstrap para diseñar la interfaz de usuario. Esta calculadora permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
-**Descripción:**
+### Preguntas
 
 1. `document.querySelector(".display");` selecciona el primer elemento en el documento HTML que tiene la clase CSS "display" y lo devuelve como un objeto que se puede manipular en JavaScript.
 
