@@ -19,3 +19,8 @@
 4. `buttons.forEach((button) => { ... })` es un bucle que itera a través de todos los elementos `<button>` seleccionados por `document.querySelectorAll("button")`. Permite realizar una acción en cada uno de estos elementos.
 
 5. `button.addEventListener("click", () => { ... })` agrega un "escuchador de eventos" a un elemento (en este caso, el elemento `<button>`). Cuando se hace clic en ese botón, la función dentro del bloque `{ ... }` se ejecuta, lo que permite realizar acciones específicas en respuesta al evento de clic.
+
+### Explicación 🐈
+Para la creación de la calculadora, manejé el sistema de contenedores y disposición proporcionados por Bootstrap, aprovechando su capacidad preexistente para la adaptación a diferentes tamaños de pantalla. Esto simplificó la tarea de diseñar los botones y estructuras, gracias a las capacidades de responsividad de Bootstrap.
+
+En lo que respecta al código JavaScript proporcionado, no realicé alteraciones significativas. Las modificaciones realizadas se centraron principalmente en las etiquetas de los botones y el campo de entrada de texto, con el propósito de permitir una comunicación efectiva con el JavaScript para procesar los datos de entrada y realizar los cálculos necesarios para mostrar el resultado de las operaciones.
